@@ -1,3 +1,235 @@
-@media (max-width:1300px) {
-    
+@media (max-width:1100px) {
+    .header {
+        padding: 0 20px;
+    }
+    .header-left h1 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .banner-section {
+        padding: 100px;
+    }
+    .banner h2 {
+        font-size: 42px;
+    }
+    .banner h4 {
+        font-size: 18px;
+    }
+    .banner-button {
+        margin-top: 40px;
+    }
+    .skill-item i {
+        font-size: 25px;
+        margin-bottom: 28px;
+    }
+    .skill-item h3 {
+        font-size: 22px;
+    }
+    .skill-item p {
+        font-size: 14px;
+    }
+    .about h2 {
+        font-size: 25px;
+        margin-top: 40px;
+        margin-bottom: 22px;
+    }
+    .about p {
+        width: 75%;
+        margin: auto;
+    }
+    .query h3 {
+        font-size: 16px;
+    }
+    .query p {
+
+        font-size: 13px;
+    }
+    .container-section2 {
+        padding: 50px;
+    }
+    .contact-section {
+        padding: 50px;
+    }
+}
+@media (max-width:992px) {
+    .text-right {
+        text-align: center;
+    }
+    .header-right ul li a {
+        padding: 22px 10px;
+        font-size: 12px;
+    }
+    .header-left h1 {
+        font-size: 22px;
+        margin-top: 15px;
+    }
+   
+    .banner h2 {
+        font-size: 38px;
+        margin-bottom: 25px;
+    }
+    .banner h4 {
+        font-size: 15px;
+    }
+    .banner-button {
+        margin-top: 30px;
+    }
+    .service h1 {
+        margin-top: 40px;
+        font-size: 28px;
+    }
+    .service p {
+        font-size: 16px;
+        width: 75%;
+        margin: auto;
+    }
+    .container-section {
+        padding: 40px;
+    }
+    .skill-item {
+        width: 48%;
+       
+    }
+    .skill-item i {
+        font-size: 22px;
+        margin-bottom: 26px;
+    }
+    .skill-item h3 {
+        font-size: 18px;
+    }
+    .skill-item p {
+        font-size: 12px;
+    }
+    .container-left {
+        float: inherit;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .container-right {
+        float: inherit;
+        width: 100%;
+    }
+    .contact h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .contact p {
+        font-size: 14px;
+    }
+    .medium h4 {
+        font-size: 14px;
+    }
+}
+@media (max-width:768px) {
+    .header-left {
+        float: inherit;
+        width: 100%;
+        text-align: center;
+        padding-top: 0px;
+    }
+    .header-right {
+        float: inherit;
+        width: 100%;
+    }
+    .header-left h1 {
+        margin-top: 0;
+        padding: 5px 0;
+    }
+    .header-right ul li a {
+        padding: 10px 10px;
+        font-size: 12px;
+    }
+    .banner h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .banner h4 {
+        font-size: 12px;
+    }
+    .banner-button {
+        padding: 9px 18px;
+        font-size: 14px;
+       
+    }
+    .banner-section {
+        padding: 10%;
+    }
+    .skill-item {
+        width: 100%;
+    }
+    .skill-item i {
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    .skill-item h3 {
+        font-size: 22px;
+    }
+    .skill-item p {
+        font-size: 13px;
+    }
+    .contact h2 {
+        font-size: 25px;
+    }
+    .medium {
+        float: inherit;
+        width: 100%;
+        margin-top: 40px;
+    }
+
+}
+@media (max-width:576px) {
+    .banner h2 {
+        font-size: 22px;
+    }
+    .banner h4 {
+        font-size: 12px;
+    }
+    .banner-button {
+        padding: 9px 16px;
+        font-size: 13px;
+
+    }
+    .banner-section {
+        padding: 7%;
+    }
+    .service h1 {
+        margin-top: 35px;
+        font-size: 25px;
+        margin-bottom: 25px;
+    }
+    .service p {
+        font-size: 14px;
+        width: 75%;
+        margin: auto;
+    }
+    .skill-item i {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .skill-item h3 {
+        font-size: 16px;
+    }
+    .skill-item p {
+        font-size: 11px;
+    }
+    .skill-item {
+        margin-top: 40px;
+
+    }
+
+    .about h2 {
+        font-size: 18px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+    }
+    .about p {
+        font-size: 12px;
+        width: 75%;
+        margin: auto;
+    }
+    .footer-bottom {
+        padding: 20px;
+        font-size: 12px;
+    }
+
 }
